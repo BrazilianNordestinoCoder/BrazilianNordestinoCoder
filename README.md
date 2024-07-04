@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project to help people, society, or the health care system.
 - 📫 How to reach me you can reach me by e-mail! plf2030@nyu.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have been programming since 15 but didn't know GitHub existed and now I'm building my portfolio again :/! Excited!
+- ⚡ Fun fact: I have been programming since 15 but I'm building my portfolio again :)! Excited!
 
 <!---
 BrazilianNordestinoCoder/BrazilianNordestinoCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
